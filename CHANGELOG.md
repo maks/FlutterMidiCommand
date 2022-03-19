@@ -1,3 +1,13 @@
+## 0.4.5
+Added Pitch bend message type
+More controls in example app
+
+## 0.4.4
+Fixed issue with single messages, credit to https://github.com/anzbert
+
+## 0.4.3
+added android:exported="true" to manifest
+
 ## 0.4.2
 Fixed BLE congestion issues on iOS
 
